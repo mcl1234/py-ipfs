@@ -6,7 +6,7 @@
 # py-ipfs
 
 Python implementation of IPFS, the InterPlanetary File System. Not even
-remotely done yet - check out [# fs1]{https://github.com/ipfs/py-ipfs/issues/1} to join the project.
+remotely done yet - check out [# fs1](https://github.com/ipfs/py-ipfs/issues/1) to join the project.
 
 
 
